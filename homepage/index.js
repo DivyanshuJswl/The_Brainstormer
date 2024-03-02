@@ -39,9 +39,9 @@ function redirectToSafetyPage() {
 function redirectToviewcasePage() {
   window.location.href = "progress/progres.html"; // Replace "another_page.html" with the actual URL of the page you want to navigate to
 }
-// function redirectToMissingPage() {
-//   window.location.href = "another.html"; // Replace "another_page.html" with the actual URL of the page you want to navigate to
-// }
+function redirectToMissingPage() {
+   window.location.href = "missing/missingperson.html"; // Replace "another_page.html" with the actual URL of the page you want to navigate to
+}
 function redirectToTelephonePage() {
   window.location.href = "phoneno/index.html"; // Replace "another_page.html" with the actual URL of the page you want to navigate to
 }
